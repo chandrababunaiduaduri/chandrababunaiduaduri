@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandrababunaiduaduri
-- 👀 I’m interested in software development and want to try all the options it has. 
-- 🌱 I’m currently learning machine learning. Duration - 3 months.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning machine learning and NLP. Duration - 3 months.
 - 😄 Pronouns: he/him
 
 <!---
